@@ -7,7 +7,7 @@ require(dplyr)
 require(ggplot2)
 
 
-require(sciplot)
+
 require(plotrix)
 
 Cox5to25wrep<-readRDS(file="C:/Dropbox/BigdataJ/Cable_Hu2018/newCoxanlaysis5to25_wrep.rds")
